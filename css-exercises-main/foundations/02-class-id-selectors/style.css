@@ -1,0 +1,19 @@
+.one {
+    background-color: rgb(248, 161, 221);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one.two {
+    font-size: 24px;
+}
+
+#three {
+    font-size: 36px;
+    color: rgb(000,000,255);
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(193, 235, 193);
+}
